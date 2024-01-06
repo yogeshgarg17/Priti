@@ -1,0 +1,12 @@
+@media only screen and (min-width:200px) and (max-width:567px){
+    .row1{
+        width: 100%;
+    }
+    .top{
+        width: 100%;
+        text-align: center;
+    }
+    .top ul li{
+        display: none;
+    }
+}
